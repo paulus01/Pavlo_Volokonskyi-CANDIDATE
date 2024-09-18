@@ -1,0 +1,7 @@
+clientId: ""
+# secrets: [mysecret]
+secrets: ""
+tenantId: ""
+vaultName: ""
+# additional config for the CSI driver
+secrets-store-csi-driver:
